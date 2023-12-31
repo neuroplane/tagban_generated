@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="server78.hosting.reg.ru" id="51342071-5bd5-408f-8292-19f99d95c17a" port="22" customName="tagban" nameFormat="CUSTOM" username="u1110949">
+        <option name="customName" value="tagban" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
